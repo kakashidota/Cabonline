@@ -1,0 +1,12 @@
+﻿{
+  "Name": "aws-ts09.ad.cabonline.com - Remote Desktop Connection",
+  "Type": "App",
+  "Id": "VO1z-3Y1NEO0Nie-An12LQ",
+  "Reference": "ojPkC7AJLUK9gfKd9T2i2A/VO1z-3Y1NEO0Nie-An12LQ",
+  "Created": "2025-09-12T07:32:16.2173133Z",
+  "Updated": "2025-09-12T07:32:16.2173133Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NBcFbEt8QUGKJq6xkxqeIw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="3bac4445-9316-4600-9692-d34bf621f46c" CvElementArea="541, 715, 114, 46" CvTextArea="545, 720, 61, 14" CvTextArgument="F5: INFO" CvType="Button" DesignTimeRectangle="540, 715, 115, 46" ElementType="Button" Guid="b3c0f67a-3f5e-4669-82e2-66c1e3690a2f" ScopeSelectorArgument="&lt;wnd app='mstsc.exe' cls='TscShellContainerClass' title='aws-ts09.ad.cabonline.com - Remote Desktop Connection' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3a8c167edad76b4192d13e1a1b04e42b.png" xmlns="">0RUhbgNgQkk2IzVWbT5UK6A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
