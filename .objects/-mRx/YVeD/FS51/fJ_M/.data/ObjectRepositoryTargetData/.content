@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="w8YNEK9V8UWg2mc0kmO37g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="1c3b1d25-85a7-4419-b819-fea8644fd6dc" CvElementArea="104, 30, 138, 27" CvType="InputBox" DesignTimeRectangle="105, 31, 137, 26" ElementType="Text" FuzzySelectorArgument="&lt;java name='Login namn:' role='text' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;" Guid="f4f3d830-feec-4072-bc58-a49624a9ec5a" ScopeSelectorArgument="&lt;wnd app='java*.exe' cls='SunAwtDialog' title='Login                                 F7=hjälp' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1c3b1d25-85a7-4419-b819-fea8644fd6dc" CvTextArea="7, 36, 97, 18" CvTextArgument="Login namn:" CvType="Text" DesignTimeRectangle="8, 31, 97, 26" FuzzySelectorArgument="&lt;java name='Login namn:' role='etikett' matching:name='fuzzy' fuzzylevel:name='0.0' check:text='Login namn:' /&gt;" Guid="95996b97-e3cc-439b-b7a9-efb3c542e73f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7eb6d08369da8e837fb4bf3345fb1ad8.png" xmlns="">0bbYDl-VIW0WpissLnbUjqQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

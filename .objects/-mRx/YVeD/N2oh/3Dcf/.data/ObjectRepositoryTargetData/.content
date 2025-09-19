@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="arrU0Un3GUybKsdH-l_f8Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="38, 677, 983, 34" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;java idx='31' role='text' /&gt;" FuzzySelectorArgument="&lt;java role='text' /&gt;" Guid="47a5e624-724a-41ba-8963-fcd3010ad966" ScopeSelectorArgument="&lt;wnd app='java*.exe' cls='SunAwtFrame' title='15.sep 10:28:51 - ROKA                                          *' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="dfc66d4bd85e49938de6bcc6f10b785a.png" xmlns="">0mDmtljQYvECQFk38Nw9eNQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

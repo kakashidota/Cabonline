@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FlxngvA4SkO_lzVwF_gqMA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="1c3b1d25-85a7-4419-b819-fea8644fd6dc" CvElementArea="104, 61, 138, 26" CvType="InputBox" DesignTimeRectangle="105, 62, 137, 26" FullSelectorArgument="&lt;java name='Kodord:' role='lösenordstext' /&gt;" Guid="2d36216f-b2ed-450c-92c7-a59482795704" ScopeSelectorArgument="&lt;wnd app='java*.exe' cls='SunAwtDialog' title='Login                                 F7=hjälp' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6c35f09b2691e9704406dc19c6bee239.png" xmlns="">0VWEFZFWCyEWMGCj-rHmVxw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

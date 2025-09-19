@@ -1,0 +1,13 @@
+﻿{
+  "Name": "lösenordstext Kodord",
+  "Type": "Element",
+  "Id": "ZlVPTsKQN0-Tw_HK19bmrQ",
+  "Reference": "ojPkC7AJLUK9gfKd9T2i2A/ZlVPTsKQN0-Tw_HK19bmrQ",
+  "ParentRef": "ojPkC7AJLUK9gfKd9T2i2A/FS515ANi3U6IFpGujGaqiw",
+  "Created": "2025-09-15T09:06:25.5378611Z",
+  "Updated": "2025-09-15T09:06:25.5378611Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

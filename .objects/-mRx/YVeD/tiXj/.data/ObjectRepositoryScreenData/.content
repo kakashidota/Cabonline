@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="g_o59k-8x0eD4T-8f5QKXw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 1024, 768" Arguments="-classpath &quot;&quot;C:\BookTerm-skola-test\collections.jar;C:\BookTerm-skola-test\gnu-regexp-1.0.8.jar;c:\bookterm-skola-test\bookterm.jar&quot;&quot; -Duser.language=sv -Duser.country=SV -Duser.timezone=Europe/Stockholm dk.frogne.booking.client.BookTerm -IP:10.201.8.113 -SPROG:sv -SELSKAB:sko -LOGLEVELSCR:99 -CLIENTLOG:Y" FilePath="C:\JRE\1.3.1_11\bin\javaw.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACPSURBVFhH7ZDRCoAwDAP3/z89N+ZpKHYiCH1JILbeJhy2XhwLWMACFrBA6204FHYJxEQmH1x5YjPK4h4z2C3AZaqMnZmxyGci497Z/wUonCiT3gKEQ42yuOsku7vkPHv/A8xsZ+44O1P6LqA7M2MZZ2dKvwmwz/CujMD0PLm3BAo7nrWxgAUsYAELFAv0fgAX4mhdOvQxUwAAAABJRU5ErkJggg==" Selector="&lt;wnd app='javaw.exe' cls='SunAwtFrame' title='15.sep 11:20:10 - ROKA                                          *' /&gt;" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="b94fd04219aa04b4cb4aa6ab24395ca1.png" xmlns="">0wZzAgj8oc0CG7VWGYhH6qQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

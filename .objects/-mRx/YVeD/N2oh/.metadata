@@ -1,0 +1,13 @@
+﻿{
+  "Name": "15.sep 102701 - ROKA                         ",
+  "Type": "Screen",
+  "Id": "N2ohvhpJ70CkrSQu4VkjTw",
+  "Reference": "ojPkC7AJLUK9gfKd9T2i2A/N2ohvhpJ70CkrSQu4VkjTw",
+  "ParentRef": "ojPkC7AJLUK9gfKd9T2i2A/YVeDngjwAEGIbvYsF3hZBw",
+  "Created": "2025-09-15T08:27:02.9620204Z",
+  "Updated": "2025-09-15T08:27:02.9620204Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
